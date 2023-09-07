@@ -10,6 +10,10 @@ This is a simple calculator project developed by iwmvictor. It allows users to p
 - Division: Perform division of two numbers.
 - Percentage: Calculate the percentage of a given number.
 
+## Preview
+
+![Calculator](/preview.png)
+
 ## Technologies Used
 
 - HTML
